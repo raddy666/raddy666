@@ -38,7 +38,7 @@ Software Engineer with a computer vision research background — I build full-st
 
 - **[Surgical-YOLO](https://github.com/raddy666/Surgical-YOLO-Position-Aware-Attention)** — position-aware attention placement for real-time spinal endoscopy segmentation; +2.82% mAP50-95 at 191.6 FPS, validated across 10 seeds. Undergraduate thesis, manuscript in preparation.
 - **[NYC Taxi Big Data Pipeline](https://github.com/raddy666/nyc-taxi-big-data-pipeline)** — Hadoop/Spark/Hive ETL pipeline over 20M+ trip records with a natural-language query layer.
-- **[Open-World 2D Action Game](https://github.com/raddy666/blacktop-blood)** — custom Python game engine with behavior-tree AI, vehicle physics, and 50+ concurrent entities.
+- **[Open-World 2D Action Game](https://github.com/raddy666/Open-World-2D-Action-Game)** — custom Python game engine with behavior-tree AI, vehicle physics, and 50+ concurrent entities.
 
 ---
 
