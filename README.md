@@ -42,4 +42,4 @@ Software Engineer with a computer vision research background — I build full-st
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/tahmid-hamim) · your-email@example.com
+📫 [LinkedIn](https://www.linkedin.com/in/tahmid-hamim) · hamimtahmid66274@gmail.com
