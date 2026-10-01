@@ -1,45 +1,48 @@
-### Hi, I'm Tahmid 👋
+<div align="center">
 
-Software Engineer with a computer vision research background — I build full-stack applications and study how attention mechanisms behave in real-time deep learning models.
+# Tahmid Hamim
 
-**Currently:** B.Eng. in Software Engineering, Sichuan University (Class of 2026). My thesis explored position-aware attention for real-time spinal endoscopy video segmentation (YOLO11n-seg); manuscript in preparation for journal submission.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Software+Engineer;Computer+Vision+and+Full-Stack+Developer;Shipping+Surgical-YOLO+and+other+experiments)](https://git.io/typing-svg)
 
-**Open to:** remote Software Engineer / Computer Vision roles.
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-hamim)
 
----
+</div>
 
-#### Stack
+```javascript
+const tahmidHamim = {
+  role: "Software Engineer",
+  focus: ["Computer Vision", "Full-Stack Development"],
+  location: "Dhaka, Bangladesh",
+  education: "B.Eng. Software Engineering, Sichuan University (2026)",
+  scholarship: "Belt and Road Scholarship",
 
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+  thesis: {
+    title: "Surgical-YOLO",
+    result: "+2.82% mAP50-95 (0.5913) @ 191.6 FPS — 166 runs, 10 seeds",
+  },
 
-**ML / CV**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+  currentlyExploring: ["Grad-CAM for segmentation heads", "ONNX export"],
+};
+```
 
-**Data / Backend**
-![Spark](https://img.shields.io/badge/-Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+<div align="center">
 
-**Tools**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### Selected work
 
----
+| Project | What it does |
+|---|---|
+| [Surgical-YOLO](https://github.com/raddy666/Surgical-YOLO-Position-Aware-Attention) | Position-aware attention for real-time spinal endoscopy segmentation |
+| [Liquid-Time-Constant-Networks](https://github.com/raddy666/Liquid-Time-Constant-Networks) | Systematic ablation testing whether LTCs can learn to see |
+| [NYC Taxi Big Data Pipeline](https://github.com/raddy666/nyc-taxi-big-data-pipeline) | Hadoop/Spark/Hive ETL over 20M+ trip records |
+| [Open-World 2D Action Game](https://github.com/raddy666/Open-World-2D-Action-Game) | Python game engine, behavior-tree AI, 50+ entities |
 
-#### Featured work
+### Activity
 
-- **[Surgical-YOLO](https://github.com/raddy666/Surgical-YOLO-Position-Aware-Attention)** — position-aware attention placement for real-time spinal endoscopy segmentation; +2.82% mAP50-95 at 191.6 FPS, validated across 10 seeds. Undergraduate thesis, manuscript in preparation.
-- **[NYC Taxi Big Data Pipeline](https://github.com/raddy666/nyc-taxi-big-data-pipeline)** — Hadoop/Spark/Hive ETL pipeline over 20M+ trip records with a natural-language query layer.
-- **[Open-World 2D Action Game](https://github.com/raddy666/Open-World-2D-Action-Game)** — custom Python game engine with behavior-tree AI, vehicle physics, and 50+ concurrent entities.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raddy666/raddy666/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raddy666/raddy666/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/raddy666/raddy666/output/github-snake.svg" />
+</picture>
 
----
-
-📫 [LinkedIn](https://www.linkedin.com/in/tahmid-hamim) · hamimtahmid66274@gmail.com
+</div>
